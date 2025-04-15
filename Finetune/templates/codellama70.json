@@ -1,0 +1,6 @@
+{
+    "description": "Template used by Meta-CodeLLaMA-70B.",
+    "prompt_no_input": "<s>Source: system\n\n  <step> Source: user\n\n {instruction} <step> Source: assistant\n\n ",
+    "response_split": "<step> Source: assistant\n\n"
+}
+
